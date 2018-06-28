@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieManager</string>
+    <string name="key"> 658680e409a5e9e11988f3e49361edae </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="signUp">No Account?? SignUp Here</string>
+</resources>

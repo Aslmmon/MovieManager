@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "312002881782",
+    "firebase_url": "https://moviemanager-a3139.firebaseio.com",
+    "project_id": "moviemanager-a3139",
+    "storage_bucket": "moviemanager-a3139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312002881782:android:028efc44237bad6a",
+        "android_client_info": {
+          "package_name": "com.example.android.moviemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312002881782-9rphrtn76u0td63skrdalhh4j1jdnka8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.moviemanager",
+            "certificate_hash": "088d32f9f88e5db5c18ec6dc313cb206583e7506"
+          }
+        },
+        {
+          "client_id": "312002881782-iushdo93hlfsks0pg30dg99htnc2cn8v.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "312002881782-iushdo93hlfsks0pg30dg99htnc2cn8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaDONw8-7qN3jWmDow_oW3fZZyOYqMAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312002881782-iushdo93hlfsks0pg30dg99htnc2cn8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

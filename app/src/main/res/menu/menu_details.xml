@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.moviemanager.Activites.DetailsActivity">
+    <item
+        android:id="@+id/signOut"
+        android:orderInCategory="10"
+        android:title="Sign out"
+        app:showAsAction="never"
+        />
+</menu>
